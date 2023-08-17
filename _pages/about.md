@@ -17,6 +17,7 @@ Education
 Expected Date: Dec 2025
 
 **M.S. in Information Communication and Technology**
+
 Dec 2021
 
 Teaching
