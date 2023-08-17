@@ -23,9 +23,6 @@ Teaching
 ========
 **University of Tasmania ** [School of Information, Communication and Technology](https://www.utas.edu.au/built-digital-natural/ict) 
 - [KIT101](https://www.utas.edu.au/courses/cse/units/kit101-programming-fundamentals)
-
-- <a href="https://www.utas.edu.au/courses/cse/units/kit101-programming-fundamentals" target="_blank">KIT101</a>
-
 - KIT102
 - KIT103
 
