@@ -21,7 +21,7 @@ Dec 2021
 
 Teaching
 ========
-**University of Tasmania ** [School of Information, Communication and Technology](https://www.utas.edu.au/built-digital-natural/ict) 
+**University of Tasmania** [School of Information, Communication and Technology](https://www.utas.edu.au/built-digital-natural/ict) 
 - [KIT101](https://www.utas.edu.au/courses/cse/units/kit101-programming-fundamentals)
 - KIT102
 - KIT103
