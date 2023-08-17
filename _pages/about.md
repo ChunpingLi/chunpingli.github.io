@@ -15,13 +15,16 @@ Education
 ### University of Tasmania, Hobart, TAS
 **Ph.D. in Information Communication and Technology**  
 Expected Date: Dec 2025
+
 **M.S. in Information Communication and Technology**, GPA: 6.5/7.0  
 Dec 2021
 
 Teaching
 ========
-**University of Tasmania ** [School of Information, Communication and Technology](https://github.com/academicpages/academicpages.github.io) 
-- [KIT101]([https://www.utas.edu.au/courses/cse/units/kit102-introduction-to-data-science](https://www.utas.edu.au/courses/cse/units/kit101-programming-fundamentals))
+**University of Tasmania ** [School of Information, Communication and Technology](https://www.utas.edu.au/built-digital-natural/ict) 
+- [KIT101](https://www.utas.edu.au/courses/cse/units/kit101-programming-fundamentals)
+
+- <a href="https://www.utas.edu.au/courses/cse/units/kit101-programming-fundamentals" target="_blank">KIT101</a>
 - KIT102
 - KIT103
 
