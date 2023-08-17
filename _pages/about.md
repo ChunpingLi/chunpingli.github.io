@@ -21,9 +21,9 @@ Dec 2021
 Teaching
 ========
 **University of Tasmania ** [School of Information, Communication and Technology](https://github.com/academicpages/academicpages.github.io) 
-[KIT101]([https://www.utas.edu.au/courses/cse/units/kit102-introduction-to-data-science](https://www.utas.edu.au/courses/cse/units/kit101-programming-fundamentals))
-KIT102
-KIT103
+- [KIT101]([https://www.utas.edu.au/courses/cse/units/kit102-introduction-to-data-science](https://www.utas.edu.au/courses/cse/units/kit101-programming-fundamentals))
+- KIT102
+- KIT103
 
 Working
 =======
@@ -49,3 +49,12 @@ Publication
 ===========
 [1] **Chunping Li**, Soonja Yeom, Julian Dermoudy, and Kristy de Salas, “Cognitive Load Measurement in the Impact of VR Intervention in Learning”, in *2022 IEEE International Conference on Advanced Learning Technologies (ICALT)*, 2022, pp. 325–329. [DOI: 10.1109/ICALT55010.2022.00103](https://ieeexplore.ieee.org/document/9853744)
 
+Scholarship and Awards
+===========
+- Australia Tasmania Graduate Research Scholarship Recipient.
+- IEEE Technical Community on Learning Technology (TCLT) Student Award 2022.
+- Nominee for the 2022 Citizen of the Year in Hobart Community Awards.
+- Nominee for the 2022 Tasmania Community Care and Health Volunteer Award.
+- Roll of Excellence of College of Sciences and Engineering 2021.
+- University of Tasmania 2021 Vice-Chancellor’s Community Service Award (citation for Global Leadership).
+- Nominee for the 2021 Tasmania Community Care and Health Volunteer Award.
