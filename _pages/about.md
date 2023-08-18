@@ -12,7 +12,7 @@ She is.
 
 Education
 =========
-## University of Tasmania, Hobart, Australia
+### University of Tasmania, Hobart, Australia
 *Ph.D. of Information Technology*, Expected Date: Dec 2025
 
 *Master of Information Technology and Systems*, Dec 2021
@@ -32,7 +32,7 @@ Publication
 
 Working
 =======
-## City of Hobart, Hobart, TAS
+### City of Hobart, Hobart, TAS
 **International Student Ambassador**  
 Sep 2022–Current
 - Manage social media platform
@@ -41,7 +41,7 @@ Sep 2022–Current
 - Collaborate with community organizations to develop initiatives that fostered inclusivity and respect for cultural differences.
 - Demonstrate excellent leadership, communication, and interpersonal skills in representing the interests of international students and promoting a welcoming and diverse community.
 
-## Huon Aquaculture Hobart, TAS
+### Huon Aquaculture Hobart, TAS
 **Information Technology Intern** 
 
 Jun 2021–Oct 2021
