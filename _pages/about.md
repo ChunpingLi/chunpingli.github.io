@@ -12,7 +12,7 @@ She is.
 
 Education
 =========
-### University of Tasmania, Hobart, TAS
+### University of Tasmania, Hobart, Australia
 **Ph.D. in Information Communication and Technology**  
 Expected Date: Dec 2025
 
@@ -23,9 +23,14 @@ Dec 2021
 Teaching
 ========
 **University of Tasmania** [School of Information, Communication and Technology](https://www.utas.edu.au/built-digital-natural/ict) 
-- [KIT101](https://www.utas.edu.au/courses/cse/units/kit101-programming-fundamentals)
-- KIT102
-- KIT103
+- [KIT101 Programming Fundamentals](https://www.utas.edu.au/courses/cse/units/kit101-programming-fundamentals) 
+- [KIT102 Introduction to Data Science](https://www.utas.edu.au/courses/cse/units/kit102-introduction-to-data-science)
+- [KIT103 Computational Science](https://www.utas.edu.au/courses/cse/units/kit103-computational-science)
+
+Publication
+===========
+[2] **Chunping Li**, Nicole Herbert, Soonja Yeom, and James Montgomery, "Retention Factors in STEM Education Identified Using Learning Analytics: A Systematic Review", *Education Sciences*, vol 12, no. 11, 2022, ISSN:2227-7102. [DOI: 10.3390/educsci12110781](https://www.mdpi.com/2227-7102/12/11/781)
+[1] **Chunping Li**, Soonja Yeom, Julian Dermoudy, and Kristy de Salas, “Cognitive Load Measurement in the Impact of VR Intervention in Learning”, in *2022 IEEE International Conference on Advanced Learning Technologies (ICALT)*, 2022, pp. 325–329. [DOI: 10.1109/ICALT55010.2022.00103](https://ieeexplore.ieee.org/document/9853744)
 
 Working
 =======
@@ -46,10 +51,6 @@ Jun 2021–Oct 2021
 - Centralized information for IT documents by integrating and correcting with Confluence and migrating
 documents from Microsoft Workspace.
 - Provided a broad range of administrative and clerical duties to support other staff.
-
-Publication
-===========
-[1] **Chunping Li**, Soonja Yeom, Julian Dermoudy, and Kristy de Salas, “Cognitive Load Measurement in the Impact of VR Intervention in Learning”, in *2022 IEEE International Conference on Advanced Learning Technologies (ICALT)*, 2022, pp. 325–329. [DOI: 10.1109/ICALT55010.2022.00103](https://ieeexplore.ieee.org/document/9853744)
 
 Scholarship and Awards
 ===========
