@@ -30,6 +30,7 @@ Teaching
 Publication
 ===========
 [2] **Chunping Li**, Nicole Herbert, Soonja Yeom, and James Montgomery, "Retention Factors in STEM Education Identified Using Learning Analytics: A Systematic Review", *Education Sciences*, vol 12, no. 11, 2022, ISSN:2227-7102. [DOI: 10.3390/educsci12110781](https://www.mdpi.com/2227-7102/12/11/781)
+
 [1] **Chunping Li**, Soonja Yeom, Julian Dermoudy, and Kristy de Salas, “Cognitive Load Measurement in the Impact of VR Intervention in Learning”, in *2022 IEEE International Conference on Advanced Learning Technologies (ICALT)*, 2022, pp. 325–329. [DOI: 10.1109/ICALT55010.2022.00103](https://ieeexplore.ieee.org/document/9853744)
 
 Working
@@ -44,6 +45,7 @@ Sep 2022–Current
 
 ### Huon Aquaculture Hobart, TAS
 **Information Technology Intern** 
+
 Jun 2021–Oct 2021
 - Created robotic automation processes by UI Path for Web Interface and Desktop Application.
 - Reviewed and improved the IT policies, procedures, standards and guidelines.
