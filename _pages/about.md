@@ -13,12 +13,8 @@ She is.
 Education
 =========
 ### University of Tasmania, Hobart, Australia
-**Ph.D. in Information Communication and Technology**  
-Expected Date: Dec 2025
-
-**M.S. in Information Communication and Technology**
-
-Dec 2021
+*Ph.D. of Information Technology*, Expected Date: Dec 2025
+*Master of Information Technology and Systems*, Dec 2021
 
 Teaching
 ========
